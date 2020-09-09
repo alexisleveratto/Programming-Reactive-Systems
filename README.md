@@ -5,13 +5,15 @@
 
 
 
-======
+------
 
 * **Week 1** - Asynchronous Programming
 * **Week 2** - The Actor Model
 
-======
+------
+
 
 ### Resource
+------
 
 This is an edX course found [here](https://www.edx.org/course/programming-reactive-systems)
