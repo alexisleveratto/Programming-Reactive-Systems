@@ -8,7 +8,7 @@
 ------
 * **Week 1** - Asynchronous Programming
 * **Week 2** - The Actor Model
-
+* **Week 3** - Simple Replicated Key-Value store
 
 
 ### Resource
