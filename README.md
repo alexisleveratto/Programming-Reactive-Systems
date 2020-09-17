@@ -6,9 +6,9 @@
 
 ### Weekly Exercises
 ------
-* **Week 1** - Asynchronous Programming
-* **Week 2** - The Actor Model
-* **Week 3** - Simple Replicated Key-Value store
+* **Week 1** - Asynchronous Programming [Overall score for this assignment is 8.64 out of 10.00]
+* **Week 2** - The Actor Model [Overall score for this assignment is 9.09 out of 10.00]
+* **Week 3** - Simple Replicated Key-Value store [Overall score for this assignment is 10.00 out of 10.00]
 
 
 ### Resource
