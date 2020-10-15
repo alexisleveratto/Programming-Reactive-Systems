@@ -11,6 +11,7 @@
 * **Week 3 & 4** - Simple Replicated Key-Value store [Overall score for this assignment is 10.00 out of 10.00]
 * **Week 5** - Transactor [Overall score for this assignment is 6.57 out of 10.00]
 * **Week 6** - Streaming [Overall score for this assignment is 9.00 out of 10.00]
+* **Week 7** - Followera
 
 ### Resource
 ------
